@@ -1,0 +1,124 @@
+.type-C-26 .border_content {
+  margin: 0 auto;
+  max-width: 85.71429em;
+  width: 100%;
+}
+.type-C-26 .clear {
+  clear: both;
+}
+.type-C-26 .l-footer-columns {
+  background: #272727;
+  color: #fff;
+}
+.type-C-26 .l-footer-columns .block {
+  padding: 50px 0 0 0;
+}
+.type-C-26 .l-footer-columns .block-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 1px;
+}
+.type-C-26 .l-footer-columns ul {
+  margin-left: 0;
+}
+.type-C-26 .l-footer-columns ul li a {
+  color: #aaa;
+}
+.type-C-26 .l-footer-columns .menu-item {
+  line-height: 28px;
+}
+.type-C-26 .l-footer a:hover,
+.type-C-26 .l-footer-columns a:hover {
+  text-decoration: underline;
+}
+.type-C-26 .textwidget {
+  font-family: inherit;
+  font-size: 1em;
+  margin-bottom: 1.42857em;
+}
+.type-C-26 .contact-details .fa {
+  font-size: 1.4em;
+  line-height: 32px;
+  text-align: center;
+  margin-right: 15px;
+}
+.type-C-26 .latest-posts ul {
+  margin-left: 0;
+}
+.type-C-26 .latest-posts ul li:first-child {
+  padding-top: 0;
+  min-height: 5.6em;
+}
+.type-C-26 .latest-posts .blog-image {
+  padding-right: 6px;
+  padding-top: 10px;
+}
+.type-C-26 .latest-posts .blog-image img {
+  margin-right: 10px;
+  width: 70px;
+}
+.type-C-26 .latest-posts ul li {
+  padding: 10px 0;
+  min-height: 6.5em;
+}
+.type-C-26 .latest-posts .blog-title,
+.type-C-26 .latest-posts .subheader {
+  margin: 0;
+  line-height: 20px;
+}
+.type-C-26 .latest-posts .blog-title a {
+  color: #333;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .5px;
+  line-height: 22px;
+}
+.type-C-26 .l-footer-columns .latest-posts .blog-title a {
+  color: #eee;
+}
+.type-C-26 .left {
+  float: left !important;
+}
+.type-C-26 .subheader {
+  line-height: 1.4;
+  color: #6f6f6f;
+  font-weight: normal;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
+}
+.type-C-26 .l-footer {
+  color: #777;
+  background: #1f1f1f;
+  border: none;
+  padding-top: 1em;
+  margin-bottom: 0;
+}
+.type-C-26 .l-footer .footer {
+  text-align: left;
+}
+.type-C-26 .l-footer section.block {
+  padding: 0;
+}
+.type-C-26 .l-footer a {
+  color: #ddd;
+  text-decoration: none;
+}
+.type-C-26 .l-footer a:hover {
+  color: #106eaa;
+}
+.type-C-26 .l-footer p {
+  margin: 0;
+  padding-bottom: 0.7em;
+  direction: ltr;
+}
+@media (max-width: 991px) {
+  .type-C-26 .columns {
+    position: relative;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+    width: 100%;
+  }
+}
